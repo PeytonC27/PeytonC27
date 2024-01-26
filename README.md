@@ -18,9 +18,9 @@
             <li>Recreated the mechanics of a mini-game in Cult of the Lamb called <a href="https://jadedpython.itch.io/knucklebones">Knucklebones</a></li>
         </ul>
         <h1>My Past Work</h1>
-        <a href=""><img src="images/bot.png"/></a>
-        <a href="https://github.com/PeytonC27/DNDHelper"><img src="images/init.png"/></a>
-        <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif"/></a>
-        <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png"/></a>
+        <a href=""><img src="images/bot.png" width=400/></a>
+        <a href="https://github.com/PeytonC27/DNDHelper"><img src="images/init.png" width="400"/></a>
+        <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif" width="400"/></a>
+        <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png" width="400"/></a>
     </body>
 </html>
