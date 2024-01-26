@@ -12,10 +12,10 @@
         </ul>
         <h2>Future Work</h2>
         <ul>
-            <li>An application for DND users that helps track initiatve for combat</li>
-            <li>The lead programmer for a game called <a href="https://stickguy101.itch.io/disquietude">Disquietude</a></li>
-            <li>A simple image/video to ASCII program, currently lacking a GUI</li>
-            <li>Recreated the mechanics of a mini-game in Cult of the Lamb called <a href="https://jadedpython.itch.io/knucklebones">Knucklebones</a></li>
+            <li>A more in-depth DND helper for DMs</li>
+            <li>An idle game about collecting mushrooms</li>
+            <li>A more advanced version of my esoteric programming language</li>
+            <li>A website</li>
         </ul>
         <h1>My Past Work</h1>
         <a href=""><img src="images/bot.png" width=400/></a>
