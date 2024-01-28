@@ -18,6 +18,12 @@
             <li>A more advanced version of my esoteric programming language</li>
             <li>A website</li>
         </ul>
+        <h3>🖋️Portfolio</h3>
+        <ul>
+            <li>Lead programmer for a game called <a href="https://rulyguy.itch.io/boom-and-bloom">Boom and Bloom</a></li>
+            <li>Lead programmer for a game called <a href="https://stickguy101.itch.io/disquietude">Disquietude</a></li>
+            <li>Recreated <a href="https://peytonc27.itch.io/knucklebones">Knucklebones</a> from Cult of the Lamb in Unity</li>
+        </ul>
         <!---->
         <h3>📱Socials</h3>
         <ul>
