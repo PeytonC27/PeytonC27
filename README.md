@@ -36,9 +36,9 @@
         </ul>
         <!---->
         <h1>My Past Work</h1>
-        <a href=""><img src="images/bot.png" width=400/></a>
         <a href="https://github.com/PeytonC27/DNDHelper"><img src="images/init.png" width="400"/></a>
-        <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif" width="400"/></a>
         <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png" width="400"/></a>
+        <a href="https://rulyguy.itch.io/boom-and-bloom"><img src="images/bb.png" width="400"/></a>
+        <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif" width="400"/></a>
     </body>
 </html>
