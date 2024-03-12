@@ -6,15 +6,14 @@
         <!---->
         <h3>💻Current Projects</h3>
         <ul>
-            <li>An esoteric programming language called Rammble</li>
-            <li>An application that can turn images and videos into ASCII/text art (specifically a useable interface)</li>
-            <li>Creating a video game called Invasion! (game concept by Rulon Adams)</li>
+            <li>Floatr, an application dedicated to saving and solving equations, removing the need to re-look up the same equation</li>
+            <li>A game inspried by Cobalt Core in Unity</li>
+            <li>A DND helper application to help handle the tons of information needed during a campaign</li>
         </ul>
         <!---->
         <h3>🕒Future Plans</h3>
         <ul>
-            <li>A more in-depth DND helper for DMs</li>
-            <li>An idle game about collecting mushrooms</li>
+            <li>A more in-depth D&D helper for DMs</li>
             <li>A more advanced version of my esoteric programming language</li>
             <li>A website</li>
         </ul>
@@ -23,6 +22,8 @@
             <li>Lead programmer for a game called <a href="https://rulyguy.itch.io/boom-and-bloom">Boom and Bloom</a></li>
             <li>Lead programmer for a game called <a href="https://stickguy101.itch.io/disquietude">Disquietude</a></li>
             <li>Recreated <a href="https://peytonc27.itch.io/knucklebones">Knucklebones</a> from Cult of the Lamb in Unity</li>
+            <li>Created a software called <a href="https://peytonc27.itch.io/floatr">Floatr</a> to help save and solve simple equations</li>
+            <li>Created a simple console application that <a href="https://peytonc27.itch.io/initiative-tracker">stores initiatives for D&D</a></li>
         </ul>
         <!---->
         <h3>📱Socials</h3>
@@ -40,5 +41,6 @@
         <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png" width="400"/></a>
         <a href="https://rulyguy.itch.io/boom-and-bloom"><img src="images/bb.png" width="400"/></a>
         <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif" width="400"/></a>
+        <a href="https://peytonc27.itch.io/floatr"><img src="images/floatr.png" width="400"></a>
     </body>
 </html>
