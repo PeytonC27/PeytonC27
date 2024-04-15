@@ -29,13 +29,13 @@
         <h3>📱Socials</h3>
         <ul>
             <li>
-                <div><a href="https://peytonc27.itch.io"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" /></a ></div>
+                <div><a href="https://www.linkedin.com/in/peyton-crua-93a8312a6/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" /></a ></div>
             </li>
             <li>
-                <div><a href=""><img src="https://static.itch.io/images/badge-color.svg" height="20" /></a></div> 
+                <div><a href="https://peytonc27.itch.io"><img src="https://static.itch.io/images/badge-color.svg" height="20" /></a></div> 
             </li>
             <li>
-                <div><a href=""><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20"></a></div>
+                <div><a href="https://ko-fi.com/jadepython"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20"></a></div>
             </li>
         </ul>
         <!---->
