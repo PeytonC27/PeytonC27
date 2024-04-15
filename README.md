@@ -34,6 +34,9 @@
             <li>
                 <div><a href=""><img src="https://static.itch.io/images/badge-color.svg" height="20" /></a></div> 
             </li>
+            <li>
+                <div><a href=""><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20"></a></div>
+            </li>
         </ul>
         <!---->
         <h1>My Past Work</h1>
