@@ -2,19 +2,18 @@
     <body>
         <!---->
         <h3>📖Personal</h3>
-        <p>Hey, I'm Peyton Crua, a Computer Science major at the University of Utah. Currently I'm into game development and software development.</p>
+        <p>Hey, I'm Peyton Crua, a Computer Science major at the University of Utah set to graduate in 2026. Currently I'm into game development, software development, and AI.</p>
         <!---->
         <h3>💻Current Projects</h3>
         <ul>
-            <li>Floatr, an application dedicated to saving and solving equations, removing the need to re-look up the same equation</li>
-            <li>A game inspried by Cobalt Core in Unity</li>
-            <li>A DND helper application to help handle the tons of information needed during a campaign</li>
+            <li>Kinetica : a card game themed around energy (mechanical, thermal, nuclear, etc)</li>
+            <li>A Discord Bot for a D&D campaign</li>
         </ul>
         <!---->
         <h3>🕒Future Plans</h3>
         <ul>
             <li>A more in-depth D&D helper for DMs</li>
-            <li>A more advanced version of my esoteric programming language</li>
+            <li>A an esoteric programming language</li>
             <li>A website</li>
         </ul>
         <h3>🖋️Portfolio</h3>
