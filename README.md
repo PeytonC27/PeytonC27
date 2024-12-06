@@ -6,14 +6,13 @@
         <!---->
         <h3>💻Current Projects</h3>
         <ul>
-            <li>Kinetica : a card game themed around energy (mechanical, thermal, nuclear, etc)</li>
-            <li>A Discord Bot for a D&D campaign</li>
+            <li>Crystal's Labyrinth : A speed platformer/FPS about escaping a dungeon with a magical bow as your weapon</li>
+            <li>A simple functional-programming language</li>
         </ul>
         <!---->
         <h3>🕒Future Plans</h3>
         <ul>
             <li>A more in-depth D&D helper for DMs</li>
-            <li>A an esoteric programming language</li>
             <li>A website</li>
         </ul>
         <h3>🖋️Portfolio</h3>
