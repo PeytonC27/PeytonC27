@@ -2,12 +2,13 @@
     <body>
         <!---->
         <h3>📖Personal</h3>
-        <p>Hey, I'm Peyton Crua, a Computer Science major at the University of Utah set to graduate in 2026. Currently I'm into game development, software development, and AI.</p>
+        <p>Hey, I'm Peyton Crua, a Computer Science major at the University of Utah set to graduate in 2026. Currently I'm into game development, software development, graphics, AI.</p>
         <!---->
         <h3>💻Current Projects</h3>
         <ul>
             <li>Crystal's Labyrinth : A speed platformer/FPS about escaping a dungeon with a magical bow as your weapon</li>
-            <li>A simple functional-programming language</li>
+            <li>A simple functional-programming language called Rammble</li>
+            <li>A graphics engine using SDL2 and C++</li>
         </ul>
         <!---->
         <h3>🕒Future Plans</h3>
