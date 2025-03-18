@@ -6,9 +6,9 @@
         <!---->
         <h3>💻Current Projects</h3>
         <ul>
-            <li>Crystal's Labyrinth : A speed platformer/FPS about escaping a dungeon with a magical bow as your weapon</li>
-            <li>A simple functional-programming language called Rammble</li>
-            <li>A graphics engine using SDL2 and C++</li>
+            <li>A 2D rogue-like game set to come out on itch.io</li>
+            <li>A simple functional-programming language called Rammbler</li>
+            <li>Tinkering with Rigidbodies and 3D projection in SDL2</li>
         </ul>
         <!---->
         <h3>🕒Future Plans</h3>
@@ -23,6 +23,8 @@
             <li>Recreated <a href="https://peytonc27.itch.io/knucklebones">Knucklebones</a> from Cult of the Lamb in Unity</li>
             <li>Created a software called <a href="https://peytonc27.itch.io/floatr">Floatr</a> to help save and solve simple equations</li>
             <li>Created a simple console application that <a href="https://peytonc27.itch.io/initiative-tracker">stores initiatives for D&D</a></li>
+            <li><a href="https://github.com/PeytonC27/dnd-bot">A Discord Bot</a> that stores D&D character information using TypeScript/JavaScript and MongoDB (no longer worked on)</li>
+            <li>A simple <a href="https://github.com/PeytonC27/Idle-Bowling">idle bowling game</a> made in Unity (no longer worked on)</li>
         </ul>
         <!---->
         <h3>📱Socials</h3>
