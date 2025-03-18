@@ -46,5 +46,6 @@
         <a href="https://rulyguy.itch.io/boom-and-bloom"><img src="images/bb.png" width="400"/></a>
         <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif" width="400"/></a>
         <a href="https://peytonc27.itch.io/floatr"><img src="images/floatr.png" width="400"></a>
+        <a href="https://peytonc27.itch.io/idle-bowling"><img src="images/idle-bowling.png" width="400"></a>
     </body>
 </html>
