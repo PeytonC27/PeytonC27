@@ -25,6 +25,7 @@
             <li>Created a simple console application that <a href="https://peytonc27.itch.io/initiative-tracker">stores initiatives for D&D</a></li>
             <li><a href="https://github.com/PeytonC27/dnd-bot">A Discord Bot</a> that stores D&D character information using TypeScript/JavaScript and MongoDB (no longer worked on)</li>
             <li>A simple <a href="https://github.com/PeytonC27/Idle-Bowling">idle bowling game</a> made in Unity (no longer worked on)</li>
+            <li>A rigidbody simulation using OpenGL and C++</li>
         </ul>
         <!---->
         <h3>📱Socials</h3>
@@ -47,5 +48,6 @@
         <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif" width="400"/></a>
         <a href="https://peytonc27.itch.io/floatr"><img src="images/floatr.png" width="400"></a>
         <a href="https://peytonc27.itch.io/idle-bowling"><img src="images/idle-bowling.png" width="400"></a>
+        <a href=""><img src="images/opengl.gif" width="400"></a>
     </body>
 </html>
