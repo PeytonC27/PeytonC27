@@ -8,12 +8,11 @@
         <ul>
             <li>A 2D rogue-like game set to come out on itch.io</li>
             <li>A simple functional-programming language called Rammbler</li>
-            <li>Tinkering with Rigidbodies and 3D projection in SDL2</li>
+            <li>A D&D sheet manager application</li>
         </ul>
         <!---->
         <h3>🕒Future Plans</h3>
         <ul>
-            <li>A more in-depth D&D helper for DMs</li>
             <li>A website</li>
         </ul>
         <h3>🖋️Portfolio</h3>
@@ -25,7 +24,7 @@
             <li>Created a simple console application that <a href="https://peytonc27.itch.io/initiative-tracker">stores initiatives for D&D</a></li>
             <li><a href="https://github.com/PeytonC27/dnd-bot">A Discord Bot</a> that stores D&D character information using TypeScript/JavaScript and MongoDB (no longer worked on)</li>
             <li>A simple <a href="https://github.com/PeytonC27/Idle-Bowling">idle bowling game</a> made in Unity (no longer worked on)</li>
-            <li>A rigidbody simulation using OpenGL and C++</li>
+            <li>A <a href="https://github.com/PeytonC27/OpenGL-Rigidbody-Simulation">rigidbody simulation</a> using OpenGL and C++</li>
         </ul>
         <!---->
         <h3>📱Socials</h3>
