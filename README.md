@@ -2,7 +2,7 @@
 Hey, I'm Peyton Crua, a Computer Science major at the University of Utah (Graduating 2026). I'm passionate about game development, graphics, and AI.
 
 ## 💻 Current Projects
-* **Incremental Bowling Game:** Built using Unity.
+* **Doodlefish Games Website:** Built using Django and Cloudflare Pages. (https://doodlefishgames.pages.dev/)
 * **TTRPG Campaign Manager:** I architected the REST API backend using Django to ensure seamless data flow to the **Flutter** mobile client, utilizing **AWS** for hosting and **Firebase** for real-time services.
 
 ## 🖥️ Work Experience
@@ -11,11 +11,12 @@ Hey, I'm Peyton Crua, a Computer Science major at the University of Utah (Gradua
 ## 🛠️ Tech Stack
 * **Languages:** `C#`, `Python`, `C++`, `JavaScript/TypeScript`, `Java`, `SQL (PostgreSQL)`, `HTML/CSS`
 * **Frameworks/Engines:** `Unity`, `.Net Core`, `Django`, `Flutter`
-* **Cloud/DevOps:** `AWS`, `Docker`, `Firebase`, `MongoDB`
+* **Cloud/DevOps:** `AWS`, `Docker`, `Firebase`, `MongoDB`, `Cloudflare`
 * **AI Integration:** `Claude`, `Gemini`, `Prompt Engineering`
 * **Tools:** `Git/GitHub`, `Jira`, `Agile Methodology`
 
 ## 🖋️ Portfolio
+* [Doodlefish Games Official Site](https://doodlefishgames.pages.dev/): Website for Doodlefish Games.
 * Lead programmer: [Boom and Bloom](https://rulyguy.itch.io/boom-and-bloom) & [Disquietude](https://stickguy101.itch.io/disquietude)
 * [Knucklebones](https://peytonc27.itch.io/knucklebones): Recreation from *Cult of the Lamb*.
 * [Floatr](https://peytonc27.itch.io/floatr): Equation-saving software.
@@ -30,6 +31,8 @@ Hey, I'm Peyton Crua, a Computer Science major at the University of Utah (Gradua
 
 # 🕹️ Featured Work
 <p align="center">
+  <a href="https://doodlefishgames.pages.dev/"><img src="images/doodlefishsite.png" width="90%"></a>
+  <br>
   <a href="https://peytonc27.itch.io/initiative-tracker"><img src="images/init.png" width="30%"/></a>
   <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png" width="30%"/></a>
   <a href="https://rulyguy.itch.io/boom-and-bloom"><img src="images/bb.png" width="30%"/></a>
