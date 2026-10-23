@@ -34,8 +34,8 @@ Hey, I'm Peyton Crua, a Computer Science graduate from the University of Utah (G
 
 # 🕹️ Featured Work
 <p align="center">
-  <a href="https://doodlefishgames.pages.dev/"><img src="images/doodlefishsite.png" width="45%"></a>
-  <a href="https://doodlefishgames.pages.dev/"><img src="images/doodlefishsite.png" width="45%"></a>
+  <a href="https://stickguy101.itch.io/apotheosis"><img src="images/apotheosis.png" width="45%"></a>
+  <a href="https://doodlefishgames.com/"><img src="images/Screenshot 2026-10-23 192209.png" width="45%"></a>
   <br>
   <a href="https://peytonc27.itch.io/initiative-tracker"><img src="images/init.png" width="30%"/></a>
   <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png" width="30%"/></a>
