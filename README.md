@@ -4,7 +4,6 @@ Hey, I'm Peyton Crua, a Computer Science graduate from the University of Utah (G
 ## 💻 Current Projects
 * **FloatEQ**: Developing and deploying free-to-use mathematics website, built with Typescript, React, Springboot, Firebase, and Render.
 * **Doodlefish Games Website:** In development, using Django and Cloudflare Pages.
-* **TTRPG Campaign Manager:** I architected the REST API backend using Django to ensure seamless data flow to the **Flutter** mobile client, utilizing **AWS** for hosting and **Firebase** for real-time services.
 
 ## 🖥️ Work Experience
 * **Software Intern @ AgileBlue**: Contributed to a distributed error logging and AI integration system.
@@ -18,12 +17,11 @@ Hey, I'm Peyton Crua, a Computer Science graduate from the University of Utah (G
 * **Tools:** `Git/GitHub`, `Jira`, `Agile Methodology`
 
 ## 🖋️ Portfolio
-* Fonder: FloatEQ website. (Currently in development)
+* Founder of [FloatEQ](https://floateq.com) website. (Currently in development)
+* Developer for [Apotheosis](https://stickguy101.itch.io/apotheosis), an incremental horror game
 * Doodlefish Games Official Site: Website for Doodlefish Games. (Currently in development)
-* Lead programmer: [Boom and Bloom](https://rulyguy.itch.io/boom-and-bloom) & [Disquietude](https://stickguy101.itch.io/disquietude)
+* Lead programmer of [Boom and Bloom](https://rulyguy.itch.io/boom-and-bloom) & [Disquietude](https://stickguy101.itch.io/disquietude)
 * [Knucklebones](https://peytonc27.itch.io/knucklebones): Recreation from *Cult of the Lamb*.
-* [Floatr](https://peytonc27.itch.io/floatr): Equation-saving software.
-* [D&D Tools](https://github.com/PeytonC27/dnd-bot): Initiative tracker and Discord bot.
 * [3D Rigidbody Simulation](https://github.com/PeytonC27/OpenGL-Rigidbody-Simulation): OpenGL-based physics.
 
 ## 📱 Socials
@@ -36,11 +34,11 @@ Hey, I'm Peyton Crua, a Computer Science graduate from the University of Utah (G
 <p align="center">
   <a href="https://stickguy101.itch.io/apotheosis"><img src="images/apotheosis.png" width="90%" /></a>
   <br>
+  <a href="https://floateq.com"><img src="images/floateq.png" width="30%"></a>
   <a href="https://doodlefishgames.com/"><img src="images/betterben.png" width="30%" /></a>
-  <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png" width="30%"/></a>
-  <a href="https://rulyguy.itch.io/boom-and-bloom"><img src="images/bb.png" width="30%"/></a>
-  <br>
   <a href="https://stickguy101.itch.io/disquietude"><img src="images/disquietude.gif" width="30%"/></a>
+  <br>
+  <a href="https://rulyguy.itch.io/boom-and-bloom"><img src="images/bb.png" width="30%"/></a>
+  <a href="https://jadedpython.itch.io/knucklebones"><img src="images/knucklebones.png" width="30%"/></a>
   <a href="https://peytonc27.itch.io/idle-bowling"><img src="images/idle-bowling.png" width="30%"></a>
-  <a href="https://github.com/PeytonC27/OpenGL-Rigidbody-Simulation"><img src="images/opengl.gif" width="30%"></a>
 </p>
